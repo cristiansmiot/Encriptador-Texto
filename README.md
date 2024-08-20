@@ -19,9 +19,7 @@ El **Encriptador de Texto** es una aplicación web sencilla que te permite encri
 2. Abre el archivo `index.html` en tu navegador web.
 
 ## Tecnologias Utilizadas
-![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white]
-![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white]
-![Javascript-323330_style=for-the-badge logo=javascript logoColor=F7DF1E]
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136530.png"><img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136528.png"><img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
 
 
 ## Créditos
